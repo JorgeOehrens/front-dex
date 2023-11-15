@@ -1,0 +1,8 @@
+.dist
+Dockerfile*
+.dockerignore
+.gitignore
+docker-compose.yml
+Jenkins*
+*.md
+node_modules
